@@ -1,2 +1,2 @@
-# my-utils
-My utils and different stuff.
+## Hi! 
+Maybe try visiting [Discord embed](http://this-stuff-is-paranor.ml/discord-embed/)?
